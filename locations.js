@@ -4,6 +4,7 @@ function allCities()
 
 				// Americas
 				new City("Atlanta",33.7490, -84.3880),
+                new City("Boston",42.3601,-71.0589),
 				new City("Branson",36.6437, -93.2185),
 				new City("Columbus",39.96, -82.99),
 				new City("Charlotte",35.2271, -80.8431),
@@ -11,14 +12,16 @@ function allCities()
 				new City("Dallas",32.77, -96.79),
 				new City("Detroit",42.3314, -83.0458),
 				new City("Kansas City",39.09, -94.57),
+                new City("Las Vegas",36.1716,-115.1391),
 				new City("Los Angeles",34.05, -118.24),		
 				//new City("",0, 0),		
 				new City("Minneapolis",44.97,-93.26),		
 				new City("New York",40.7128, -74.0060),		
 				new City("Raleigh",35.7796, -78.6382),
-				new City("Rekyavik",64.1466, -21.9426),		
+				
 				new City("San Francisco",37.7749, -122.4194),
 				new City("Seattle",47.6062, -122.33),
+                new City("Vancouver",49.2827,-123.1207),
 				
 				//new City("",0, 0),
 				//new City("",0, 0),
@@ -59,6 +62,7 @@ function allCities()
 				new City("Paris",48.8566, 2.3522),
 				new City("Prague",50.0755, 14.4378),
 				new City("Reading",51.4551,-0.9787),
+                new City("Rekyavik",64.1466, -21.9426),		
 				new City("Riga",56.9496, 24.1052),
 				new City("Rome",41.9028, 12.4964),
 				new City("Russia",55.7558, 37.6173),
@@ -68,6 +72,7 @@ function allCities()
 				new City("Tallinn",59.4370, 24.7536),
 				new City("Tartu",58.3780, 26.7290),
 				new City("Utrecht",52.0907, 5.1214),	
+                new City("Vianen",51.9903, 5.1030),
 				new City("Vienna",48.2082, 16.3738),
 				new City("Vilnius",54.6872, 25.2797),											
 				new City("Warsaw",52.2297, 21.0122),
